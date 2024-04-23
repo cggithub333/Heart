@@ -206,7 +206,7 @@ var settings = {
 
 /*
 
- * RequestAnimationFrame polyfill by Erik Möller
+ * RequestAnimationFrame polyfill by Erik M ller
 
  */
 
@@ -664,7 +664,6 @@ var ParticlePool = (function() {
 
         margin-bottom: 5px;
 
-        text-align: center;">Anh yeu be</div>
 
  </BODY>
 
